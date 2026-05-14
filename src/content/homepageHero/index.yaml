@@ -1,11 +1,9 @@
 participation:
   discriminant: false
-title1: Der RS21
+title1: Veloroute ehemalige B68
 title2: Ein neuer Radschnellweg
 waypoints:
-  - Stuttgart
-  - Bietigheim-Bissingen
+  - Borgholzhausen
+  - Bielefeld
 image: ../../content/homepageHero/image.jpg
-imageCopyright: >-
-  Beispieldarstellung eines Radschnellwegs © Ministerium für Verkehr
-  Baden-Württemberg
+imageCopyright: Veloroute ehemalige B68 Strassenperspektive nachher © todo
