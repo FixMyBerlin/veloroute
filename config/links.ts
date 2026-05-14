@@ -9,7 +9,7 @@ export const FOOTER_LINKS = [
 // We filter it is `buildNavigation` to those that are active ATM
 export const NAVIGATION_LINKS = [
   { name: 'Startseite', href: '/' },
-  { name: 'Route', href: '/route' },
+  { name: 'Die Strecke', href: '/route' },
   // { name: 'Beteiligung', href: '/beteiligung' },
   { name: 'FAQ', href: '/faq' },
 ] as const satisfies NavigatinItem[]
