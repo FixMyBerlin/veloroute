@@ -1,0 +1,64 @@
+{
+  "id": "teilprojekt-hw-gt",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "teilprojekt-hw-gt",
+    "projectSlug": "veloroute",
+    "operator": "Kreis Gütersloh",
+    "estimatedCompletionDateString": "",
+    "status": "In Planung"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.367598,
+        52.057863
+      ],
+      [
+        8.370057,
+        52.055893
+      ],
+      [
+        8.376537,
+        52.051433
+      ],
+      [
+        8.380773,
+        52.048554
+      ],
+      [
+        8.382352,
+        52.047422
+      ],
+      [
+        8.383985,
+        52.046203
+      ],
+      [
+        8.385673,
+        52.044609
+      ],
+      [
+        8.389572,
+        52.040871
+      ],
+      [
+        8.39505,
+        52.035599
+      ],
+      [
+        8.397979,
+        52.032839
+      ],
+      [
+        8.398816,
+        52.032069
+      ],
+      [
+        8.399766,
+        52.031348
+      ]
+    ]
+  }
+}
