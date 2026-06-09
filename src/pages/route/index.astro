@@ -11,6 +11,8 @@ import { getEntry, render } from 'astro:content'
 const page = await getEntry('routepage', 'index')
 if (page === undefined) return Astro.redirect('/404')
 
+if (page.data.active === false) return Astro.redirect('/404')
+
 const { Content } = await render(page)
 const { title, subtitle, subPagesActive } = page.data
 ---

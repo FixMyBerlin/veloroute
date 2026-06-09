@@ -12,6 +12,8 @@ import { getCollection, getEntry, render, type InferEntrySchema } from 'astro:co
 const page = await getEntry('faqspage', 'index')
 if (page === undefined) return Astro.redirect('/404')
 
+if (page.data.active === false) return Astro.redirect('/404')
+
 const { Content } = await render(page)
 const { title, subtitle } = page.data
 
