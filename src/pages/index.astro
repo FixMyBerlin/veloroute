@@ -6,7 +6,6 @@ import HomepageFacts from '@shared/sections/HomepageFacts.astro'
 import HomepageHero from '@shared/sections/HomepageHero.astro'
 import HomepageLinks from '@shared/sections/HomepageLinks.astro'
 import HomepageMilestones from '@shared/sections/HomepageMilestones.astro'
-import HomepageQuotes from '@shared/sections/HomepageQuotes.astro'
 import SectionFaqs from '@shared/sections/SectionFaqs.astro'
 import { getEntry, render } from 'astro:content'
 
@@ -24,7 +23,6 @@ const { Content: ContentAfterQuotes } = await render(pageAfterQuotes)
   <Section prose className="mt-16">
     <ContentBeforeQuotes components={mdxComponentsAstro} />
   </Section>
-  <HomepageQuotes />
   <Section prose>
     <ContentAfterQuotes components={mdxComponentsAstro} />
   </Section>
