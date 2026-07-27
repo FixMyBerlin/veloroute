@@ -7,7 +7,6 @@ import HomepageHero from '@shared/sections/HomepageHero.astro'
 import HomepageLinks from '@shared/sections/HomepageLinks.astro'
 import HomepageMilestones from '@shared/sections/HomepageMilestones.astro'
 import HomepageQuotes from '@shared/sections/HomepageQuotes.astro'
-import HomepageLogos from '@shared/sections/LogosSponsors.astro'
 import SectionFaqs from '@shared/sections/SectionFaqs.astro'
 import { getEntry, render } from 'astro:content'
 
@@ -33,5 +32,4 @@ const { Content: ContentAfterQuotes } = await render(pageAfterQuotes)
   <HomepageMilestones />
   <SectionFaqs showLink={false} />
   <HomepageLinks />
-  <HomepageLogos />
 </Layout>
