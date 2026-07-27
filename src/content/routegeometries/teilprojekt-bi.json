@@ -1,0 +1,64 @@
+{
+  "id": "teilprojekt-bi",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "teilprojekt-bi",
+    "projectSlug": "veloroute",
+    "operator": "Stadt Bielefeld",
+    "estimatedCompletionDateString": "",
+    "status": "In Planung"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.488192,
+        52.00263
+      ],
+      [
+        8.488614,
+        52.00235
+      ],
+      [
+        8.4899,
+        52.001277
+      ],
+      [
+        8.490715,
+        52.000716
+      ],
+      [
+        8.491806,
+        52.000118
+      ],
+      [
+        8.492612,
+        51.999735
+      ],
+      [
+        8.493613,
+        51.999212
+      ],
+      [
+        8.494198,
+        51.998887
+      ],
+      [
+        8.494528,
+        51.998703
+      ],
+      [
+        8.495998,
+        51.997952
+      ],
+      [
+        8.496479,
+        51.997891
+      ],
+      [
+        8.497585,
+        51.997872
+      ]
+    ]
+  }
+}

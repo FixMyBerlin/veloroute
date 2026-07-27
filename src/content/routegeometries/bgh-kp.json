@@ -1,0 +1,48 @@
+{
+  "id": "bgh-kp",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "bgh-kp",
+    "projectSlug": "veloroute",
+    "operator": "Borgholzhausen",
+    "estimatedCompletionDateString": "",
+    "status": "Prüfung"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.266605,
+        52.086668
+      ],
+      [
+        8.267142,
+        52.08653
+      ],
+      [
+        8.267732,
+        52.086354
+      ],
+      [
+        8.268348,
+        52.086167
+      ],
+      [
+        8.268946,
+        52.085977
+      ],
+      [
+        8.269596,
+        52.085776
+      ],
+      [
+        8.270062,
+        52.085625
+      ],
+      [
+        8.270325,
+        52.08554
+      ]
+    ]
+  }
+}

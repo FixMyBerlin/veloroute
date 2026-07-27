@@ -7,7 +7,7 @@
       "properties": {
         "subsectionSlug": "teilprojekt-hw-gt",
         "projectSlug": "veloroute",
-        "operator": "Kreis Gütersloh",
+        "operator": "Kreis G\u00fctersloh",
         "estimatedCompletionDateString": "",
         "status": "In Planung"
       },
@@ -246,12 +246,60 @@
       }
     },
     {
+      "id": "bgh-kp",
+      "type": "Feature",
+      "properties": {
+        "subsectionSlug": "bgh-kp",
+        "projectSlug": "veloroute",
+        "operator": "Borgholzhausen",
+        "estimatedCompletionDateString": "",
+        "status": "Pr\u00fcfung"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.266605,
+            52.086668
+          ],
+          [
+            8.267142,
+            52.08653
+          ],
+          [
+            8.267732,
+            52.086354
+          ],
+          [
+            8.268348,
+            52.086167
+          ],
+          [
+            8.268946,
+            52.085977
+          ],
+          [
+            8.269596,
+            52.085776
+          ],
+          [
+            8.270062,
+            52.085625
+          ],
+          [
+            8.270325,
+            52.08554
+          ]
+        ]
+      }
+    },
+    {
       "id": "teilprojekt-bgh",
       "type": "Feature",
       "properties": {
         "subsectionSlug": "teilprojekt-bgh",
         "projectSlug": "veloroute",
-        "operator": "Kreis Gütersloh",
+        "operator": "Kreis G\u00fctersloh",
         "estimatedCompletionDateString": "",
         "status": "In Planung"
       },
@@ -425,6 +473,70 @@
           [
             8.348321,
             52.066728
+          ]
+        ]
+      }
+    },
+    {
+      "id": "teilprojekt-bi",
+      "type": "Feature",
+      "properties": {
+        "subsectionSlug": "teilprojekt-bi",
+        "projectSlug": "veloroute",
+        "operator": "Stadt Bielefeld",
+        "estimatedCompletionDateString": "",
+        "status": "In Planung"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.488192,
+            52.00263
+          ],
+          [
+            8.488614,
+            52.00235
+          ],
+          [
+            8.4899,
+            52.001277
+          ],
+          [
+            8.490715,
+            52.000716
+          ],
+          [
+            8.491806,
+            52.000118
+          ],
+          [
+            8.492612,
+            51.999735
+          ],
+          [
+            8.493613,
+            51.999212
+          ],
+          [
+            8.494198,
+            51.998887
+          ],
+          [
+            8.494528,
+            51.998703
+          ],
+          [
+            8.495998,
+            51.997952
+          ],
+          [
+            8.496479,
+            51.997891
+          ],
+          [
+            8.497585,
+            51.997872
           ]
         ]
       }
