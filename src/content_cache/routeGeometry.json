@@ -7,7 +7,7 @@
       "properties": {
         "subsectionSlug": "teilprojekt-hw-gt",
         "projectSlug": "veloroute",
-        "operator": "Kreis G\u00fctersloh",
+        "operator": "Kreis Gütersloh",
         "estimatedCompletionDateString": "",
         "status": "In Planung"
       },
@@ -253,7 +253,51 @@
         "projectSlug": "veloroute",
         "operator": "Borgholzhausen",
         "estimatedCompletionDateString": "",
-        "status": "Pr\u00fcfung"
+        "status": "Prüfung"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.267234,
+            52.085873
+          ],
+          [
+            8.267703,
+            52.085996
+          ],
+          [
+            8.268273,
+            52.086161
+          ],
+          [
+            8.268329,
+            52.086176
+          ],
+          [
+            8.268385,
+            52.086191
+          ],
+          [
+            8.268796,
+            52.086328
+          ],
+          [
+            8.268899,
+            52.086357
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bgh-kp",
+      "type": "Feature",
+      "properties": {
+        "subsectionSlug": "bgh-kp",
+        "projectSlug": "veloroute",
+        "operator": "Borgholzhausen",
+        "estimatedCompletionDateString": "",
+        "status": "Prüfung"
       },
       "geometry": {
         "type": "LineString",
@@ -299,7 +343,7 @@
       "properties": {
         "subsectionSlug": "teilprojekt-bgh",
         "projectSlug": "veloroute",
-        "operator": "Kreis G\u00fctersloh",
+        "operator": "Kreis Gütersloh",
         "estimatedCompletionDateString": "",
         "status": "In Planung"
       },
@@ -473,6 +517,78 @@
           [
             8.348321,
             52.066728
+          ]
+        ]
+      }
+    },
+    {
+      "id": "teilprojekt-bi",
+      "type": "Feature",
+      "properties": {
+        "subsectionSlug": "teilprojekt-bi",
+        "projectSlug": "veloroute",
+        "operator": "Stadt Bielefeld",
+        "estimatedCompletionDateString": "",
+        "status": "In Planung"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.490238,
+            51.998401
+          ],
+          [
+            8.490804,
+            51.998643
+          ],
+          [
+            8.491762,
+            51.998911
+          ],
+          [
+            8.492121,
+            51.999052
+          ],
+          [
+            8.492568,
+            51.999112
+          ],
+          [
+            8.493428,
+            51.999306
+          ],
+          [
+            8.494234,
+            51.999507
+          ],
+          [
+            8.495214,
+            51.999769
+          ],
+          [
+            8.495432,
+            51.999937
+          ],
+          [
+            8.496173,
+            52.000084
+          ],
+          [
+            8.497011,
+            52.000285
+          ],
+          [
+            8.497741,
+            52.000426
+          ],
+          [
+            8.497926,
+            52.000573
+          ],
+          [
+            8.497861,
+            52.000761
           ]
         ]
       }
